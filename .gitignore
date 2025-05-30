@@ -1,0 +1,8 @@
+# Experimental Code 
+legacy/
+
+# Virtual Environment
+.venv/
+
+# Cache
+__pycache__/
