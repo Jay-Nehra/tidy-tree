@@ -1,7 +1,7 @@
 [project]
 name = "tidy-tree"
 version = "0.1.0"
-description = "A command-line tool to standardize file and directory names recursively with 2-digit prefixes"
+description = "A command-line tool to standardize file and directory names recursively."
 readme = "README.md"
 
 requires-python = ">=3.8"
